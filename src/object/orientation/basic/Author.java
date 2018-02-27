@@ -6,8 +6,7 @@ import java.util.List;
  *
  * @author User
  */
-class Autor {
-
-    String nome;
-    List<Livro> livros;
+class Author {
+    String name;
+    List<Book> books;
 }
